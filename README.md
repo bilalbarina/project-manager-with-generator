@@ -26,7 +26,7 @@ composer require infyomlabs/laravel-ui-adminlte
 ```
 
 ```bash
-php artisan ui adminlte  
+php artisan ui adminlte --auth
 ```
 
 ```bash
